@@ -39,26 +39,7 @@ https://getbootstrap.com/docs/4.4/layout/grid/ 為文字編輯模板以及封面
                 <h1>Natural Felling</h1>
                 <p>Relax your body and walk into nature</p>
             </div>
-            <div class="carousel-inner">
-                <div class="item active">
-                    <img src="幻燈片/1.jpg" style="width:100%">
-                </div>
-                <div class="item">
-                    <img src="幻燈片/2.jpg" style="width:100%">
-                </div>
-                <div class="item">
-                    <img src="幻燈片/3.jpg" style="width:100%">
-                </div>
-                <div class="item">
-                    <img src="幻燈片/4.jpg" style="width:100%">
-                </div>
-                <div class="item">
-                    <img src="幻燈片/5.jpg" style="width:100%">
-                </div>
-                <div class="item">
-                    <img src="幻燈片/6.jpg" style="width:100%">
-                </div>
-            </div>
+
             <a href="#myCarousel" class="left carousel-control" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left"></span>
                 <span class="sr-only">Previous</span>
